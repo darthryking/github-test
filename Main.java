@@ -3,8 +3,7 @@ public class Main {
         System.out.println("Hello world! This is a new GitHub project.");
     }
     
-    public static int sum(int a, int b)
-    {
-        return a+b;
+    public static int sum(int x, int y){
+        return x + y;
     }
 }
